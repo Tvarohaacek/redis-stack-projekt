@@ -1,4 +1,5 @@
-import { useState, FormEvent } from 'react';
+import { useState } from 'react';
+import type { FormEvent } from 'react';
 import { Save, Loader2 } from 'lucide-react';
 import type { Product, CreateProductDTO } from '../../types';
 
