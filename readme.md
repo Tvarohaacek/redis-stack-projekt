@@ -613,9 +613,4 @@ Projekt demonstruje praktickou implementaci Redis cache vrstvy v reálné aplika
 
 ## Autoři
 
-- Backend & Redis implementace: [Jméno]
-- Frontend & DevOps: [Jméno]
-
-## License
-
-MIT License - viz LICENSE soubor pro detaily.
+- Já a Honzin + goated AI
